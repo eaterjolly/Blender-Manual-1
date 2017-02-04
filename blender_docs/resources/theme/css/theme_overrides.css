@@ -148,12 +148,8 @@ iframe {
 footer p{ font-size: smaller}
 /*view page source to icon (text-file)*/
 .wy-breadcrumbs-aside a{ width:1em; white-space: nowrap;  overflow: hidden;}
-.wy-breadcrumbs-aside a::before {content:"\f0f6";}
-.wy-breadcrumbs-aside:hover::after {
-	position: absolute; top: 50px; right: 50px;
-	content:"View page source"; white-space: nowrap;
-	color: gray;
-}
+.wy-breadcrumbs-aside a::before {content:"\f0f6"}
+.wy-breadcrumbs-aside a:hover {width:auto; white-space: normal;}
 
 /*intermediate headline*/
 .rubric {font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif}
