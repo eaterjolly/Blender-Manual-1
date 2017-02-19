@@ -3,7 +3,7 @@
 Introduction to the Blender Manual
 **********************************
 
-In this manual aims to be a complete and concise source of information
+This manual aims to be a complete and concise source of information
 to help you to become familiar with the application.
 
 
@@ -19,8 +19,8 @@ Hotkey letters are shown in this manual like they appear on a keyboard; for exam
   refers to the lowercase ``g``.
 :kbd:`Shift`, :kbd:`Ctrl`, :kbd:`Alt`
   are specified as modifier keys.
-:kbd:`Ctrl-W`, :kbd:`Shift-Alt-A`, ...
-  indicates that these keys should be pressed simultaneously
+:kbd:`Ctrl-A`, :kbd:`Shift-Alt-A`, ...
+  indicates any modifier key(s) that should be held-pressed continuously to modify the hotkey's effect.
 :kbd:`Numpad0` to :kbd:`Numpad9`, :kbd:`NumpadPlus`
   refer to the keys on the separate numeric keypad.
 
@@ -43,6 +43,8 @@ This manual referrers to mouse buttons as:
 :kbd:`Wheel`
   Scrolling the wheel.
 
+
+.. _about-user-contribute:
 
 Contribute
 ==========
